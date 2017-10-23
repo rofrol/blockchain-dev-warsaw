@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="414.66405"
-     inkscape:cy="161.44511"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="157.53134"
+     inkscape:cy="176.83704"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,41 +79,8 @@
            y="46.319675"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /></flowRegion><flowPara
          id="flowPara3705" /></flowRoot>    <g
-       id="g5945"
-       transform="translate(-1.889881,6.9070214)">
-      <flowRoot
-         transform="matrix(0.3552023,0,0,0.3552023,6.0406664,182.40972)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-         id="flowRoot3707"
-         xml:space="preserve"><flowRegion
-           style="fill:#ffffff"
-           id="flowRegion3709"><rect
-             style="fill:#ffffff"
-             y="29.147083"
-             x="27.274118"
-             height="458.60925"
-             width="460.62955"
-             id="rect3711" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
-           id="flowPara3713">Blockchain</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
-           id="flowPara3715">Dev</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
-           id="flowPara3717">Warsaw</flowPara></flowRoot>      <path
-         sodipodi:nodetypes="cssssssc"
-         inkscape:connector-curvature="0"
-         id="rect4534"
-         d="m 79.193063,229.87098 v -3.87749 c 0,-1.64165 1.321636,-2.96328 2.963308,-2.96328 h 17.677112 c 1.641657,0 2.963297,1.32163 2.963297,2.96328 v 7.75498 c 0,1.64166 -1.32164,2.96329 -2.963297,2.96329 h -8.83854"
-         style="fill:none;stroke:#ffffff;stroke-width:3.45120239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4532"
-         d="m 70.390306,230.177 h 17.677152 c 1.641666,0 2.963303,1.32162 2.963303,2.96331 v 7.75493 c 0,1.64168 -1.321637,2.96331 -2.963303,2.96331 H 70.390306 c -1.641673,0 -2.963306,-1.32163 -2.963306,-2.96331 v -7.75493 c 0,-1.64169 1.321633,-2.96331 2.963306,-2.96331 z"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.45120239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
        id="g5972"
-       transform="translate(0,6.8608419)">
+       transform="translate(37.041668,6.8608419)">
       <flowRoot
          transform="matrix(0.24473509,0,0,0.24473509,52.982487,190.13822)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:15.90000057px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3f6887;fill-opacity:1;stroke:none"
@@ -177,5 +144,105 @@
            id="flowPara5881" /><flowPara
            style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
            id="flowPara5883" /></flowRoot>    </g>
+    <g
+       transform="matrix(0.6407829,0,0,0.6407829,64.014588,93.446587)"
+       id="g845">
+      <flowRoot
+         transform="matrix(0.44779054,0,0,0.44779054,-6.0856369,164.92912)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot3707-5"
+         xml:space="preserve"><flowRegion
+           style="fill:#ffffff"
+           id="flowRegion3709-0"><rect
+             style="fill:#ffffff"
+             y="29.147083"
+             x="27.274118"
+             height="458.60925"
+             width="460.62955"
+             id="rect3711-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3713-6">Blockchain</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3715-8">Dev</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3717-5">Warsaw</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cssssssssc"
+         inkscape:connector-curvature="0"
+         id="rect4532-5"
+         d="m 101.05827,237.86924 v 0.79044 c 0,2.0696 -1.666135,3.73574 -3.73573,3.73574 H 75.037604 c -2.069595,0 -3.735732,-1.66614 -3.735732,-3.73574 v -9.77637 c 0,-2.06959 1.666137,-3.73573 3.735732,-3.73573 H 97.32254 c 2.069595,0 3.73573,1.66614 3.73573,3.73573 v 0.29342"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.35080481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.35080481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 86.134918,229.64998 c 0,1.0348 0.416535,1.96873 1.091769,2.64396 0.675234,0.67524 1.609166,1.09177 2.643961,1.09177 h 11.109062 11.17588 c 2.06959,0 3.73573,-1.66613 3.73573,-3.73573 v -9.77637 c 0,-2.0696 -1.66614,-3.73573 -3.73573,-3.73573 H 89.87065 c -2.069595,0 -3.735732,1.66613 -3.735732,3.73573 v 0.8616"
+         id="path835"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscssssssc" />
+    </g>
+    <g
+       transform="translate(-185.20839,6.8608419)"
+       id="g910">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot878"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:15.90000057px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3f6887;fill-opacity:1;stroke:none"
+         transform="matrix(0.24473509,0,0,0.24473509,52.982487,190.13822)"><flowRegion
+           id="flowRegion862"
+           style="line-height:15.90000057px;fill:#3f6887;fill-opacity:1"><rect
+             id="rect860"
+             width="442.4469"
+             height="167.68532"
+             x="302.03561"
+             y="24.741083"
+             style="line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara864"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1">contract SimpleBank {</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara866">    mapping (address =&gt; uint) private balances;</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara868">    address public owner;</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara870">    event LogDepositMade(address accountAddress, uint amount);</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara872">    function SimpleBank() {</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara874">        owner = msg.sender;</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara876">    }</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.24473509,0,0,0.24473509,52.982487,225.93442)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:15.90000057px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3f6887;fill-opacity:1;stroke:none"
+         id="flowRoot908"
+         xml:space="preserve"><flowRegion
+           style="line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowRegion882"><rect
+             style="line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+             y="24.741083"
+             x="302.03561"
+             height="177.60394"
+             width="331.70737"
+             id="rect880" /></flowRegion><flowPara
+           id="flowPara884"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
+           id="flowPara886"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1">    function deposit() public returns (uint) {</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara888">        balances[msg.sender] += msg.value;</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara890">        LogDepositMade(msg.sender, msg.value);</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara892">        return balances[msg.sender];</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara894">    }</flowPara><flowPara
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1"
+           id="flowPara896">}</flowPara><flowPara
+           id="flowPara898"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
+           id="flowPara900"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
+           id="flowPara902"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
+           id="flowPara904"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
+           id="flowPara906"
+           style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /></flowRoot>    </g>
   </g>
 </svg>

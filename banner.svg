@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="446.15735"
+     inkscape:cx="318.87813"
      inkscape:cy="-23.612653"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,35 +79,6 @@
            y="46.319675"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /></flowRegion><flowPara
          id="flowPara3705" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3707"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.14543784,0,0,0.14543784,5.7918432,256.2487)"><flowRegion
-         id="flowRegion3709"
-         style="fill:#ffffff"><rect
-           id="rect3711"
-           width="460.62955"
-           height="458.60925"
-           x="27.274118"
-           y="29.147083"
-           style="fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara3713"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff">Blockchain</flowPara><flowPara
-         id="flowPara3715"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff">Dev</flowPara><flowPara
-         id="flowPara3717"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff">Warsaw</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.41309738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 35.744146,275.68175 v -1.58764 c 0,-0.67218 0.541145,-1.21332 1.213329,-1.21332 h 7.237923 c 0.672181,0 1.213326,0.54114 1.213326,1.21332 v 3.17528 c 0,0.67218 -0.541145,1.21332 -1.213326,1.21332 h -3.618962"
-       id="rect4534"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssssssc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.41309738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.139851,275.80705 h 7.237922 c 0.672183,0 1.213327,0.54114 1.213327,1.21333 v 3.17526 c 0,0.67219 -0.541144,1.21333 -1.213327,1.21333 h -7.237922 c -0.672184,0 -1.213328,-0.54114 -1.213328,-1.21333 v -3.17526 c 0,-0.67219 0.541144,-1.21333 1.213328,-1.21333 z"
-       id="rect4532"
-       inkscape:connector-curvature="0" />
-    <flowRoot
        xml:space="preserve"
        id="flowRoot5179"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:15.90000057px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3f6887;fill-opacity:1;stroke:none"
@@ -169,5 +140,39 @@
          id="flowPara5881"
          style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /><flowPara
          id="flowPara5883"
-         style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /></flowRoot>  </g>
+         style="font-size:13.33333397px;line-height:15.90000057px;fill:#3f6887;fill-opacity:1" /></flowRoot>    <g
+       transform="matrix(0.32404847,0,0,0.32404847,6.2820016,202.8514)"
+       id="g845">
+      <flowRoot
+         transform="matrix(0.44779054,0,0,0.44779054,-6.0856369,164.92912)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot3707-5"
+         xml:space="preserve"><flowRegion
+           style="fill:#ffffff"
+           id="flowRegion3709-0"><rect
+             style="fill:#ffffff"
+             y="29.147083"
+             x="27.274118"
+             height="458.60925"
+             width="460.62955"
+             id="rect3711-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3713-6">Blockchain</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3715-8">Dev</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff"
+           id="flowPara3717-5">Warsaw</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="cssssssssc"
+         inkscape:connector-curvature="0"
+         id="rect4532-5"
+         d="m 101.05827,237.86924 v 0.79044 c 0,2.0696 -1.666135,3.73574 -3.73573,3.73574 H 75.037604 c -2.069595,0 -3.735732,-1.66614 -3.735732,-3.73574 v -9.77637 c 0,-2.06959 1.666137,-3.73573 3.735732,-3.73573 H 97.32254 c 2.069595,0 3.73573,1.66614 3.73573,3.73573 v 0.29342"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.35080481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:4.35080481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 86.134918,229.64998 c 0,1.0348 0.416535,1.96873 1.091769,2.64396 0.675234,0.67524 1.609166,1.09177 2.643961,1.09177 h 11.109062 11.17588 c 2.06959,0 3.73573,-1.66613 3.73573,-3.73573 v -9.77637 c 0,-2.0696 -1.66614,-3.73573 -3.73573,-3.73573 H 89.87065 c -2.069595,0 -3.735732,1.66613 -3.735732,3.73573 v 0.8616"
+         id="path835"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscssssssc" />
+    </g>
+  </g>
 </svg>
